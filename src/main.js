@@ -39,7 +39,6 @@ function sendJobData() {
     });
 }
 
-app.whenReady().then(createWindow);
 
 
 app.on('window-all-closed', () => {
@@ -69,10 +68,6 @@ ipcMain.on('navigate-back', () => {
     mainWindow.loadFile('index.html');
 });
 
-
-const { app, BrowserWindow, ipcMain } = require('electron');
-const fs = require('fs');
-const path = require('path');
 
 
 

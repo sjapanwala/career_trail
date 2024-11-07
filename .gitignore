@@ -1,0 +1,51 @@
+# Node modules
+/node_modules/
+
+# Electron specific
+/dist/
+/*.asar
+
+# Debug output
+/debug/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Linux specific
+*.desktop
+
+# Build artifacts
+*.exe
+*.dmg
+*.app
+*.deb
+*.rpm
+*.tar.gz
+*.appimage
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variable files
+.env
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDE settings
+.idea/
+
+# OS-specific files
+.vscode/
+.idea/
+*.swp
+
+# Package-lock.json or yarn.lock (Optional, depending on your needs)
+package-lock.json
+yarn.lock
