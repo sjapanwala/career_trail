@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/styles.css">
+    <title>Job Listings</title>
+    <h1 class="app-title">Find Your Future</h1>
+    <nav class="navbar">
+    </nav>
+</head>
+<body>
+    <!--<button class="app-buttons" id="run-scripts">Run Scripts</button>  The button to run Python scripts -->
+    <div id="get-more" class="get-more">
+        <div class="inputs">
+        <input type="text" id="occupation" class="search-input" placeholder="Job Name*">
+        <input type="text" id="location" class="search-input" placeholder="Location* 'Toronto, ON'">
+        <button id="run-scripts" class="get-buttons">Search Jobs</button>
+        </div>
+    </div>
+    <div class="search-container">
+        <input
+            type="text" 
+            id="job-search" 
+            class="search-input" 
+            placeholder="Search jobs by title, company, keywords..."
+        >
+        <div id="results-count"></div>
+    </div>
+    <div id="job-list"></div>
+    <ul id="job-list"></ul>  <!-- Job items will be appended here -->
+    <script src="renderer.js"></script>
+</body>
+</html>
