@@ -1,0 +1,618 @@
+[
+    {
+        "id": "in-a33b591544903971",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=a33b591544903971",
+            "job_url_direct": "https://jobs.smartrecruiters.com/IBIGroup/744000024564030-junior-intermediate-intern-architect"
+        },
+        "job_information": {
+            "title": "Junior/Intermediate Intern Architect",
+            "company": "IBI Group",
+            "location": "Edmonton, AB, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-11-04",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-2d9bdeca281d413c",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=2d9bdeca281d413c",
+            "job_url_direct": "https://rr.jobsyn.org/EFEE0C9B2B544A6EAE96D5B5DF27C71E1554"
+        },
+        "job_information": {
+            "title": "Mechanical Co-Op/Intern",
+            "company": "Stantec",
+            "location": "Edmonton, AB, CA",
+            "job_type": "temporary, parttime, fulltime",
+            "date_posted": "2024-10-14",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4067152041",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4067152041",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Work from Home AI Development Specialist",
+            "company": "Outlier",
+            "location": "Edmonton, Alberta, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-11-05",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "True",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4065815769",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4065815769",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Estimating Student Edmonton",
+            "company": "Bird Construction",
+            "location": "Edmonton, Alberta, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-11-01",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4028883129",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4028883129",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Estimating Student",
+            "company": "Bird Construction",
+            "location": "Edmonton, Alberta, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-10-31",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4062175014",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4062175014",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Building Condition Assessment-Technical Report Writer",
+            "company": "Pryco Global Inc",
+            "location": "Edmonton, Alberta, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-10-29",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-3978673309",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/3978673309",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Researcher - AI Deep Learning",
+            "company": "Huawei Canada",
+            "location": "Edmonton, Alberta, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-07-17",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['intern', 'architect', 'ibi', 'group', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "True",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-f6e02852793c55a5",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=f6e02852793c55a5",
+            "job_url_direct": "https://www.amazon.jobs/jobs/2824054/software-development-engineer-amazon-connect-contact-lens?cmpid=DA_INAD200785B"
+        },
+        "job_information": {
+            "title": "Software Development Engineer, Amazon Connect Contact Lens",
+            "company": "Amazon.com",
+            "location": "Vancouver, BC, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-11-02",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-bd138d54843d2dc4",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=bd138d54843d2dc4",
+            "job_url_direct": "https://www.amazon.jobs/jobs/2823917/software-development-engineer-store-rendering-tech-dram?cmpid=DA_INAD200785B"
+        },
+        "job_information": {
+            "title": "Software Development Engineer, Store Rendering Tech, Dram",
+            "company": "Amazon.com",
+            "location": "Vancouver, BC, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-29",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-90019e51861152af",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=90019e51861152af",
+            "job_url_direct": "https://www.amazon.jobs/jobs/2823848/software-development-engineer-workforce-solutions--analytics-and-tech?cmpid=DA_INAD200785B"
+        },
+        "job_information": {
+            "title": "Software Development Engineer, Workforce Solutions - Analytics and Tech",
+            "company": "Amazon.com",
+            "location": "Vancouver, BC, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-23",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-3ec7b4252b7a3859",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=3ec7b4252b7a3859",
+            "job_url_direct": "https://jobs.intel.com/job/-/-/599/70791722848"
+        },
+        "job_information": {
+            "title": "Memory and I/O IP Design Engineer",
+            "company": "Intel Corporation",
+            "location": "Toronto, ON, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-03",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-ab3ceec5a14e42ea",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=ab3ceec5a14e42ea",
+            "job_url_direct": "https://www.amazon.jobs/jobs/2823955/front-end-engineer-amazon-advertising?cmpid=DA_INAD200785B"
+        },
+        "job_information": {
+            "title": "Front End Engineer, Amazon Advertising",
+            "company": "Amazon.com",
+            "location": "Toronto, ON, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-03",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4009101417",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4009101417",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Software Engineer, Intern",
+            "company": "Stripe",
+            "location": "Toronto, Ontario, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-10-27",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4021113972",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4021113972",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Software Engineer Intern (Summer 2025)",
+            "company": "Okta",
+            "location": "",
+            "job_type": "nan",
+            "date_posted": "2024-10-24",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4055768932",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4055768932",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Software Engineer Intern (Toronto) - Summer 2025",
+            "company": "Snowflake",
+            "location": "Ontario, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-10-21",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4037252893",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4037252893",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Front-End Engineer Internship \u2013 2025 (CAN)",
+            "company": "Amazon",
+            "location": "Toronto, Ontario, Canada",
+            "job_type": "nan",
+            "date_posted": "2024-10-19",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "li-4066467983",
+        "job_source": {
+            "site": "linkedin",
+            "job_url": "https://www.linkedin.com/jobs/view/4066467983",
+            "job_url_direct": "nan"
+        },
+        "job_information": {
+            "title": "Intern, Software Developer",
+            "company": "Autodesk",
+            "location": "Toronto, Ontario, Canada",
+            "job_type": "nan",
+            "date_posted": "nan",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['software', 'development', 'amazon', 'connect', 'contact', 'lens', 'ca', 'fulltime', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-86e8ffe63048aff3",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=86e8ffe63048aff3",
+            "job_url_direct": "https://jsv3.recruitics.com/redirect?rx_cid=3662&rx_jobId=4493746005rxv_58_108&rx_url=https%3A%2F%2Fjob-boards.greenhouse.io%2Foutlierai%2Fjobs%2F4493746005%3Fgh_src%3Dbbfbcbd25us%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D301098%26rx_job%3D4493746005rxv_58_108%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20241107T060604Z%26rx_vp%3Dcpc%26utm_campaignDescription%3DSpecialist%26utm_owner%3Drecruitics%26utm_source%3Dindeed%26utm_targetCountry%3Dus%26utm_targetLanguage%3D%26utm_taskerType%3D"
+        },
+        "job_information": {
+            "title": "AI Math Instructor",
+            "company": "Outlier AI",
+            "location": "Edmonton, AB, CA",
+            "job_type": "contract",
+            "date_posted": "2024-11-03",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['ai', 'math', 'instructor', 'outlier', 'ai', 'ca', 'contract', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-4b30b5376304179c",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=4b30b5376304179c",
+            "job_url_direct": "https://careers.pcl.com/job/Edmonton-Data-Science-Student-AB/1209078700/?feedId=354800&utm_source=Indeed&utm_campaign=PCL_Indeed"
+        },
+        "job_information": {
+            "title": "Data Science Student",
+            "company": "PCL Construction",
+            "location": "Edmonton, AB, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-11-01",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['ai', 'math', 'instructor', 'outlier', 'ai', 'ca', 'contract', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-b7520ad30c3e4f42",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=b7520ad30c3e4f42",
+            "job_url_direct": "https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30122&siteid=6598&PageType=JobDetails&jobid=2191400"
+        },
+        "job_information": {
+            "title": "Software Development Intern",
+            "company": "Lockheed Martin",
+            "location": "Calgary, AB, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-28",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['ai', 'math', 'instructor', 'outlier', 'ai', 'ca', 'contract', 'indeed']"
+        },
+        "user_information": {
+            "applied": "True",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-579e3fcf7f4addd8",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=579e3fcf7f4addd8",
+            "job_url_direct": "http://ca.indeed.com/job/marketing-coordinator-intern-579e3fcf7f4addd8"
+        },
+        "job_information": {
+            "title": "Marketing Coordinator (Intern)",
+            "company": "Trust Science Inc.",
+            "location": "Edmonton, AB, CA",
+            "job_type": "fulltime",
+            "date_posted": "2024-10-04",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['ai', 'math', 'instructor', 'outlier', 'ai', 'ca', 'contract', 'indeed']"
+        },
+        "user_information": {
+            "applied": "False",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    },
+    {
+        "id": "in-cbe5ca93df9365a9",
+        "job_source": {
+            "site": "indeed",
+            "job_url": "https://ca.indeed.com/viewjob?jk=cbe5ca93df9365a9",
+            "job_url_direct": "http://ca.indeed.com/job/security-analyst-internship-january-april-2025-cbe5ca93df9365a9"
+        },
+        "job_information": {
+            "title": "Security Analyst Internship: January to April 2025",
+            "company": "Trust Science Inc.",
+            "location": "Edmonton, AB, CA",
+            "job_type": "nan",
+            "date_posted": "2024-10-03",
+            "date_found": "2024-11-07",
+            "salary_source": "None",
+            "interval": "None"
+        },
+        "job_keywords": {
+            "keywords": "['ai', 'math', 'instructor', 'outlier', 'ai', 'ca', 'contract', 'indeed']"
+        },
+        "user_information": {
+            "applied": "True",
+            "applied_date": "nan",
+            "responsded": "False",
+            "status": "nan",
+            "user_notes": ""
+        }
+    }
+]
