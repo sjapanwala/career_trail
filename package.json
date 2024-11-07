@@ -12,5 +12,9 @@
   "description": "",
   "devDependencies": {
     "electron": "^33.1.0"
+  },
+  "build": {
+    "appId": "sjapanwala.github.io",
+    "productName": "CareerTrail"
   }
 }
