@@ -18,7 +18,7 @@ function createWindow() {
     });
 
     mainWindow.loadFile('index.html');
-    mainWindow.webContents.openDevTools();
+    //mainWindow.webContents.openDevTools();
 
     // Send job data after each page reload
     mainWindow.webContents.on('did-finish-load', () => {
