@@ -9,12 +9,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "```txt how to install",
   "devDependencies": {
     "electron": "^33.1.0"
   },
   "build": {
     "appId": "sjapanwala.github.io",
     "productName": "CareerTrail"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjapanwala/career_trail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sjapanwala/career_trail/issues"
+  },
+  "homepage": "https://github.com/sjapanwala/career_trail#readme"
 }
